@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "RGUKT ",
+      "body": "It's a wonderful campus",
+      "author": "Sony",
+      "id": 3
+    },
+    {
+      "title": "ashok",
+      "body": "arigala",
+      "author": "Sony",
+      "id": 4
+    },
+    {
+      "title": "ashok",
+      "body": "bad boy",
+      "author": "Sony",
+      "id": 5
+    }
+  ]
+}
